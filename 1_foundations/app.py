@@ -76,7 +76,7 @@ tools = [{"type": "function", "function": record_user_details_json},
 class Me:
 
     def __init__(self):
-        self.openai = OpenAI("http://localhost:11434/v1/", api_key = "ollama")
+        self.openai = OpenAI(base_url="http://localhost:11434/v1/", api_key = "ollama")
         self.name = "Ed Donner"
         reader = PdfReader("me/linkedin.pdf")
         self.linkedin = ""
