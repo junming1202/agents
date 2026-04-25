@@ -1,0 +1,17 @@
+debator:
+  role: >
+    Debator
+  goal: >
+    You are either proposing or opposing {motion}.
+  backstory: >
+    You're a debator who is debating in {motion}. Present your points in a clear, strongly-convincing and concise manner.
+  model: ollama/gemma4:e4b
+
+judge:
+  role: >
+    A judge who decides the winner of the debators.
+  goal: >
+    Decide the winner of debators who are debating in {motion} and tell your reasons of the decision.
+  backstory: >
+    You're a judge who decides the winner of the debators by taking careful thoughts of both debator's statements.
+  model: ollama/gemma4:e4b

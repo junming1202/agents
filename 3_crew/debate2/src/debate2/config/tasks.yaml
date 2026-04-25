@@ -1,0 +1,23 @@
+propose:
+  description: >
+    You propose in {motion}. Provide your points and reasons in clear, convincing and concise manner.
+  expected_output: >
+    Paragraphs that proposes in {motion}
+  agent: debator
+  output_file: output/propose.md
+
+oppose:
+  description: >
+    You oppose in {motion}. Provide your points and reasons in clear, convincing and concise manner.
+  expected_output: >
+    Paragraphs that opposes in {motion}
+  agent: debator
+  output_file: output/oppose.md
+
+decide:
+  description: >
+    Decide the winner of the debators who propose and oppose in {motion} 
+  expected_output: >
+    Tell the winner of the debators with reasons. 
+  agent: judge
+  output_file: output/decide.md
