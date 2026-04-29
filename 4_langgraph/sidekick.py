@@ -13,9 +13,10 @@ from sidekick_tools import playwright_tools, other_tools
 import uuid
 import asyncio
 from datetime import datetime
+import os
 
 load_dotenv(override=True)
-
+openrouter_api_key=os.getenv("OPENROUTER_API_KEY")
 
 class State(TypedDict):
     messages: Annotated[List[Any], add_messages]
@@ -48,9 +49,9 @@ class Sidekick:
     async def setup(self):
         self.tools, self.browser, self.playwright = await playwright_tools()
         self.tools += await other_tools()
-        worker_llm = ChatOpenAI(model="google/gemma-4-e4b", base_url = "http://localhost:1234/v1", api_key = "lmstudio")
+        worker_llm = ChatOpenAI(model="openai/gpt-oss-120b:free", base_url = "https://openrouter.ai/api/v1", api_key = openrouter_api_key)
         self.worker_llm_with_tools = worker_llm.bind_tools(self.tools)
-        evaluator_llm = ChatOpenAI(model="google/gemma-4-e4b", base_url = "http://localhost:1234/v1", api_key = "lmstudio")
+        evaluator_llm = ChatOpenAI(model="openai/gpt-oss-120b:free", base_url = "https://openrouter.ai/api/v1", api_key = openrouter_api_key)
         self.evaluator_llm_with_output = evaluator_llm.with_structured_output(EvaluatorOutput)
         await self.build_graph()
 
