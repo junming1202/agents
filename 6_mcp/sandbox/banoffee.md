@@ -1,27 +1,43 @@
-# Banoffee Pie Recipe
+# Banoffee Pie Recipe 🥧
+
+Banoffee Pie is a classic British dessert made of ladyfinger biscuits, toffee/dulce de leche, bananas, and cream. Here is a summarized recipe for making this delicious treat!
 
 ## Ingredients
-- 4 bananas, sliced
-- 394g caramel or dulce de leche
-- 300ml double cream
-- Dark chocolate (optional)
 
-### For the pastry
-- 100g butter, chilled (plus extra for greasing)
-- 200g plain flour
-- 1 medium egg, separated
-- 1 tbsp golden caster sugar
+**For the Crust:**
+*   1 pack (approx. 200g) digestive biscuits or graham crackers
+*   100g butter, melted
 
-## Method
-1. Make the pastry case: Put butter and flour in a food processor and pulse until it resembles fresh breadcrumbs. Add egg yolk and sugar, pulse again, then add very cold water a tbsp at a time until dough comes together.
-2. Knead dough gently by hand until smooth ball forms. Wrap in cling film and chill for 30 minutes.
-3. Heat oven to 190C/170C fan/gas 4. Grease a 23cm loose bottomed fluted tart tin. Roll out pastry and line the tin, leaving about 0.5cm of pastry over the edge and snip to length.
-4. Line base with baking parchment and weigh down with baking beans/uncooked rice. Bake for 15 minutes. Remove parchment and beans, brush pastry with beaten egg white and bake another 15-20 minutes until golden and cooked. Cool completely.
-5. Spread half the caramel on the pastry case, layer bananas on top, then cover with remaining caramel. Chill in fridge.
-6. Whip the cream until thick and spoon over the tart. Grate dark chocolate over to garnish if using.
+**For the Toffee/Dulce Layer:**
+*   1 cup condensed milk
+*   3 tablespoons butter
+*   (Optional: A pinch of salt for flavor enhancement)
 
-## Notes
-- Serves 8-10.
-- Prep time: 30 minutes.
-- Cook time: 30-35 minutes.
-- An easy family favorite. Recommended to serve with a generous dollop of cream.
+**For the Banana Cream Filling:**
+*   4-5 ripe bananas, sliced
+*   200ml heavy whipping cream (cold)
+*   50g icing sugar (powdered sugar)
+*   1 tsp vanilla extract
+
+## Instructions
+
+### 🍰 1. Make the Crust
+1.  Place the digestive biscuits in a food processor and pulse until fine crumbs form.
+2.  Pour the melted butter over the biscuit crumbs.
+3.  Press the mixture firmly into the base of an 8-inch pie dish, creating an even layer. Place the crust in the refrigerator to chill while preparing other components.
+
+### 🍮 2. Prepare the Toffee Layer (Dulce)
+1.  In a saucepan, gently melt the butter.
+2.  Stir in the condensed milk and bring the mixture to a very low simmer, stirring constantly until it thickens slightly and achieves a rich toffee color. *Be careful not to let it boil too rapidly.*
+3.  Pour this warm toffee layer directly over the chilled crust in the pie dish.
+
+### 🍌 3. Assemble the Filling
+1.  In a large bowl, whip the cold heavy cream with the icing sugar and vanilla extract until stiff peaks form.
+2.  Arrange the sliced bananas evenly over the toffee layer.
+3.  Gently spoon or pipe the whipped cream mixture around and over the banana slices, making sure to cover as much of the tarts surface area as possible.
+
+### 🍽️ 4. Chill and Serve
+1.  Refrigerate the pie dish for at least 4 hours, or preferably overnight, to allow all layers to set completely.
+2.  Before serving, garnish with a few extra slices of banana or a dusting of powdered sugar for presentation.
+
+Enjoy your homemade Banoffee Pie!
